@@ -205,9 +205,9 @@ Le comunicazioni ricevute vengono conservate per il tempo necessario a gestire l
 
 ## 14. Informativa privacy su GitHub Pages
 
-La presente informativa è destinata a essere pubblicata tramite **GitHub Pages**, servizio fornito da GitHub.
+La presente informativa è pubblicata tramite GitHub Pages, servizio fornito da GitHub.
 
-Al momento della pubblicazione definitiva, la pagina sarà disponibile all'indirizzo HTTPS dedicato di Tap!.
+La pagina è disponibile all'indirizzo https://01digitals.github.io/tap/privacy/.
 
 La raccolta delle carte memorizzata in Tap! non viene inviata a GitHub per effetto della pubblicazione o della consultazione di questa pagina.
 
