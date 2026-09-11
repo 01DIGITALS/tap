@@ -217,7 +217,9 @@ GitHub può effettuare trattamenti e trasferimenti internazionali dei dati tecni
 
 Tap! non aggiunge all'URL della privacy policy valori delle carte, identificatori della raccolta o parametri di tracciamento.
 
-Nella build Android corrente il link alla presente informativa non è ancora attivo nell'app e verrà integrato prima della pubblicazione definitiva sullo Store.
+Nella build Android corrente il link alla presente informativa è disponibile nella sezione Privacy dell'app e viene aperto tramite il browser di sistema.
+
+Tap! non utilizza una WebView interna per visualizzare questa pagina e non aggiunge all'URL dati della raccolta o parametri di tracciamento.
 
 ## 15. Tastiere, accessibilità e altre funzioni Android
 
