@@ -373,8 +373,6 @@ Per informazioni relative alla presente informativa, per richieste in materia di
 
 **Titolare del trattamento**  
 Louis Sanges  
-Via Alessandrini, 8  
-43039 Salsomaggiore Terme (PR)  
 Italia
 
 **Email:** louisbigdev@hotmail.com
