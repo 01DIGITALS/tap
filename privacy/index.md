@@ -9,8 +9,6 @@ Tap! è un'app per conservare e utilizzare carte fedeltà direttamente sul propr
 ## 1. Titolare del trattamento
 
 **Louis Sanges**  
-Via Alessandrini, 8  
-43039 Salsomaggiore Terme (PR)  
 Italia
 
 Email: **louisbigdev@hotmail.com**
